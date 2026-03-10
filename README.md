@@ -1,5 +1,9 @@
 # newt-sidecar
 
+Moved to https://github.com/home-operations/newt-sidecar
+
+
+
 A Kubernetes sidecar that watches HTTPRoute resources and dynamically generates a [Pangolin](https://github.com/fosrl/pangolin) blueprint YAML for the [newt](https://github.com/fosrl/newt) tunnel daemon.
 
 ## How it works
